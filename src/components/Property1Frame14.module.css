@@ -1,0 +1,57 @@
+.property1frame14Child {
+  position: absolute;
+  top: calc(50% - 492.5px);
+  left: calc(50% - 522px);
+  width: 1044.6px;
+  height: 985px;
+  object-fit: cover;
+}
+.property1frame14Item {
+  position: absolute;
+  top: 0;
+  left: 1034px;
+  background-color: var(--color-gray-200);
+  width: 1034px;
+  height: 975px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.focusOnSustainability {
+  position: absolute;
+  top: 46px;
+  left: 73.6px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 888.2px;
+  height: 91px;
+}
+.asAMarketer {
+  margin: 0;
+}
+.asAMarketerContainer {
+  position: absolute;
+  top: 187px;
+  left: 73.6px;
+  font-size: var(--font-size-9xl);
+  line-height: 123%;
+  font-family: var(--font-proxima-nova);
+  color: var(--title-color);
+  display: inline-block;
+  width: 886.7px;
+  height: 768px;
+}
+.property1frame14 {
+  position: absolute;
+  top: 1129px;
+  left: 20px;
+  border-radius: var(--br-57xl);
+  width: 1034px;
+  height: 975px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-27xl);
+  color: var(--accent-color);
+  font-family: var(--font-futura-md-bt);
+}

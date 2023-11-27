@@ -1,0 +1,20 @@
+.about {
+  position: absolute;
+  width: 114.77%;
+  top: -9.09%;
+  left: -6.8%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.property1variant2 {
+  position: absolute;
+  top: 73px;
+  left: 0;
+  width: 128px;
+  height: 33px;
+  text-align: center;
+  font-size: var(--font-size-19xl);
+  color: var(--color-gainsboro-200);
+  font-family: var(--font-proxima-nova);
+}

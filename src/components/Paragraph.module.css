@@ -1,0 +1,36 @@
+.typeAQuestion {
+  align-self: stretch;
+  position: relative;
+}
+.typeHere {
+  flex: 1;
+  position: relative;
+}
+.frame,
+.paragraph {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame {
+  align-self: stretch;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-whitesmoke);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  height: 120px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  padding: var(--padding-mini);
+  color: var(--input-color);
+}
+.paragraph {
+  width: 390px;
+  flex-direction: column;
+  gap: var(--gap-3xs);
+  text-align: left;
+  font-size: var(--input-size);
+  color: var(--title-color);
+  font-family: var(--input);
+}

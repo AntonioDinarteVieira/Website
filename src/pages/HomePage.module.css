@@ -1,0 +1,221 @@
+.homepageChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 1920px;
+  height: 7350px;
+}
+.areYouUpdated {
+  position: absolute;
+  top: 231px;
+  left: 1493px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 302px;
+  height: 48px;
+}
+.vectorIcon {
+  position: absolute;
+  height: 0.88%;
+  width: 53.22%;
+  top: 17.11%;
+  right: 6.51%;
+  bottom: 82.01%;
+  left: 40.27%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.prepareYourBrand {
+  position: absolute;
+  top: 118px;
+  left: 390px;
+  font-size: var(--font-size-57xl);
+  font-family: var(--font-futura-bold);
+  color: var(--title-color);
+}
+.thSection {
+  position: absolute;
+  top: 4793px;
+  left: 0;
+  width: 1920px;
+  height: 1251px;
+  overflow: hidden;
+}
+.about,
+.animaoHeroSection,
+.blog,
+.blog1,
+.blog2,
+.blog3,
+.blog4,
+.blog5,
+.contact,
+.logos,
+.portfolio,
+.services,
+.slideNoticias,
+.top {
+  position: absolute;
+  top: -218px;
+  left: 1024px;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  width: 128px;
+  height: 126px;
+  overflow: hidden;
+}
+.animaoHeroSection,
+.blog,
+.blog1,
+.blog2,
+.blog3,
+.blog4,
+.blog5,
+.contact,
+.logos,
+.portfolio,
+.services,
+.slideNoticias,
+.top {
+  left: 1190px;
+  width: 163px;
+}
+.animaoHeroSection,
+.blog,
+.blog1,
+.blog2,
+.blog3,
+.blog4,
+.blog5,
+.contact,
+.logos,
+.portfolio,
+.slideNoticias,
+.top {
+  top: -219px;
+  left: 1391px;
+  width: 161px;
+}
+.animaoHeroSection,
+.blog,
+.blog1,
+.blog2,
+.blog3,
+.blog4,
+.blog5,
+.contact,
+.logos,
+.slideNoticias,
+.top {
+  top: -221px;
+  left: 1580px;
+  width: 127px;
+}
+.animaoHeroSection,
+.blog1,
+.blog2,
+.blog3,
+.blog4,
+.blog5,
+.contact,
+.logos,
+.slideNoticias,
+.top {
+  top: -217px;
+  left: 1735px;
+  width: 153px;
+}
+.animaoHeroSection,
+.blog1,
+.blog2,
+.blog3,
+.blog4,
+.blog5,
+.logos,
+.slideNoticias,
+.top {
+  top: -909px;
+  left: 1574px;
+  width: 161px;
+  height: 342px;
+}
+.animaoHeroSection,
+.blog1,
+.blog2,
+.blog3,
+.blog4,
+.blog5,
+.logos,
+.slideNoticias {
+  top: 95px;
+  left: -775px;
+  width: 596px;
+  height: 1402px;
+}
+.blog1,
+.blog2,
+.blog3,
+.blog4,
+.blog5,
+.logos,
+.slideNoticias {
+  top: -724px;
+  left: -1000px;
+  width: 1960px;
+  height: 569px;
+}
+.blog1,
+.blog2,
+.blog3,
+.blog4,
+.blog5,
+.slideNoticias {
+  top: 5380px;
+  left: 2527px;
+  width: 1074px;
+  height: 2101px;
+}
+.blog2,
+.blog3,
+.blog4,
+.blog5,
+.slideNoticias {
+  top: 5360px;
+  left: 3864px;
+  height: 2124px;
+}
+.blog3,
+.blog4,
+.blog5,
+.slideNoticias {
+  left: 5289px;
+}
+.blog4,
+.blog5,
+.slideNoticias {
+  left: 6490px;
+}
+.blog5,
+.slideNoticias {
+  left: 7691px;
+}
+.slideNoticias {
+  left: 9176px;
+  width: 1960px;
+  height: 5902px;
+}
+.homepage {
+  position: relative;
+  width: 100%;
+  height: 7350px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-goldenrod);
+  font-family: var(--font-futura-hv-bt);
+}

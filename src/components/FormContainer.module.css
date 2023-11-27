@@ -1,0 +1,139 @@
+.whatImGoing {
+  position: absolute;
+  top: 307.3px;
+  left: 17px;
+  display: inline-block;
+  width: 1454px;
+  height: 91.9px;
+}
+.stSectionChild {
+  position: absolute;
+  top: 781px;
+  left: 0;
+  background-color: var(--color-gainsboro-200);
+  width: 1920px;
+  height: 205px;
+}
+.logo052Icon {
+  position: absolute;
+  top: 39px;
+  left: 46px;
+  width: 62px;
+  height: 64px;
+  object-fit: cover;
+}
+.vieira {
+  font-family: var(--font-futura-bk-bt);
+}
+.dinartevieiraTxt {
+  line-break: anywhere;
+  width: 100%;
+}
+.design,
+.dinartevieira,
+.eMailMarketing,
+.seo {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.dinartevieira {
+  top: 50.4px;
+  left: 122px;
+  font-size: var(--font-size-15xl);
+  color: var(--color-white);
+  text-align: right;
+  width: 216px;
+  height: 42.4px;
+}
+.design,
+.eMailMarketing,
+.seo {
+  top: 209px;
+  left: 694px;
+  font-weight: 500;
+  justify-content: center;
+  width: 725px;
+  height: 122px;
+  -webkit-text-stroke: 2px rgba(217, 217, 217, 0.08);
+}
+.eMailMarketing,
+.seo {
+  top: 324px;
+  left: 905px;
+  font-size: var(--font-size-77xl);
+  width: 462px;
+}
+.eMailMarketing {
+  top: 397px;
+  left: 322px;
+  font-size: var(--font-size-37xl);
+  width: 1390px;
+}
+.copywriting {
+  top: 98px;
+  left: 648px;
+  font-size: var(--font-size-84xl);
+  font-weight: 500;
+  width: 658px;
+}
+.copywriting,
+.googlemetaAds,
+.publicRelations,
+.socialMedia {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 122px;
+  -webkit-text-stroke: 2px rgba(217, 217, 217, 0.08);
+}
+.publicRelations {
+  top: 476px;
+  left: 682px;
+  font-size: var(--font-size-75xl);
+  font-weight: 500;
+  width: 719px;
+}
+.googlemetaAds,
+.socialMedia {
+  top: 586px;
+  left: 0;
+  font-size: var(--font-size-116xl);
+  font-family: var(--font-futura-bold);
+  width: 1299px;
+}
+.socialMedia {
+  top: 0;
+  left: 70px;
+  font-size: var(--font-size-179xl);
+  width: 1345px;
+}
+.wordPlayHeroSection {
+  position: absolute;
+  top: 103px;
+  left: 658px;
+  width: 1712px;
+  height: 708px;
+  font-size: var(--font-size-103xl);
+  font-family: var(--font-futura-md-bt);
+}
+.stSection,
+.stSectionItem {
+  position: absolute;
+  top: 413px;
+  left: 424px;
+  width: 590px;
+  height: 148px;
+}
+.stSection {
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1001px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-54xl);
+  color: var(--title-color);
+  font-family: var(--font-futura-bold);
+}

@@ -1,0 +1,47 @@
+.topButtonChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background: linear-gradient(180deg, #ffb337, #191919 82.29%);
+  width: 81px;
+  height: 81px;
+}
+.top {
+  position: absolute;
+  top: 44.6px;
+  left: 13.2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 54.6px;
+  height: 26.4px;
+}
+.topButtonItem {
+  position: absolute;
+  top: 15.1px;
+  left: 40.8px;
+  width: 0;
+  height: 21.3px;
+}
+.topButton {
+  position: relative;
+  box-shadow: 3px 3px 5px rgba(255, 179, 55, 0.15);
+  width: 81px;
+  height: 81px;
+}
+.property1variant2 {
+  position: absolute;
+  top: 181px;
+  left: 20px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-11xl) var(--padding-xl);
+  text-align: center;
+  font-size: var(--font-size-lgi);
+  color: var(--color-gainsboro-200);
+  font-family: var(--font-futura-bold);
+}

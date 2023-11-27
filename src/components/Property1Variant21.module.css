@@ -1,0 +1,20 @@
+.contact {
+  position: absolute;
+  width: 115.03%;
+  top: -9.09%;
+  left: -7.06%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.property1variant2 {
+  position: absolute;
+  top: 73px;
+  left: 0;
+  width: 153px;
+  height: 33px;
+  text-align: center;
+  font-size: var(--font-size-19xl);
+  color: var(--title-color);
+  font-family: var(--font-proxima-nova);
+}

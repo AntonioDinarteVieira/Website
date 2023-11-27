@@ -1,0 +1,57 @@
+.property1frame12Child {
+  position: absolute;
+  top: calc(50% - 495.5px);
+  left: calc(50% - 526px);
+  width: 1051.9px;
+  height: 992px;
+  object-fit: cover;
+}
+.property1frame12Item {
+  position: absolute;
+  top: 0;
+  left: 1034px;
+  background-color: var(--color-gray-200);
+  width: 1034px;
+  height: 975px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.aiEnhancedConversationalMar {
+  position: absolute;
+  top: 46px;
+  left: 73.6px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 888.2px;
+  height: 91px;
+}
+.in2023We {
+  margin: 0;
+}
+.in2023WeContainer {
+  position: absolute;
+  top: 187px;
+  left: 73.6px;
+  font-size: var(--font-size-12xl);
+  line-height: 123%;
+  font-family: var(--font-proxima-nova);
+  color: var(--title-color);
+  display: inline-block;
+  width: 886.7px;
+  height: 768px;
+}
+.property1frame12 {
+  position: absolute;
+  top: 1129px;
+  left: 20px;
+  border-radius: var(--br-57xl);
+  width: 1034px;
+  height: 975px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-27xl);
+  color: var(--accent-color);
+  font-family: var(--font-futura-md-bt);
+}

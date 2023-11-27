@@ -1,0 +1,9 @@
+.property1defaultIcon {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 1920px;
+  height: 209px;
+  overflow: hidden;
+  object-fit: cover;
+}

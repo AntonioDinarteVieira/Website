@@ -1,0 +1,20 @@
+.trends {
+  position: absolute;
+  width: 168.66%;
+  top: -9.09%;
+  left: -34.33%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.property1variant2 {
+  position: absolute;
+  top: 73px;
+  left: 0;
+  width: 127px;
+  height: 33px;
+  text-align: center;
+  font-size: var(--font-size-19xl);
+  color: var(--title-color);
+  font-family: var(--font-proxima-nova);
+}

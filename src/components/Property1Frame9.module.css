@@ -1,0 +1,17 @@
+.property1frame9Child {
+  position: absolute;
+  top: calc(50% - 496.5px);
+  left: calc(50% - 527px);
+  width: 1053.1px;
+  height: 993px;
+  object-fit: cover;
+}
+.property1frame9 {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  border-radius: var(--br-57xl);
+  width: 1034px;
+  height: 975px;
+  overflow: hidden;
+}

@@ -1,0 +1,152 @@
+.callMe,
+.div {
+  position: absolute;
+  left: 0;
+}
+.callMe {
+  top: 0;
+  font-weight: 500;
+}
+.div {
+  top: 87px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-proxima-nova);
+}
+.adressParent,
+.callMeParent,
+.eMailParent {
+  position: absolute;
+  top: 560px;
+  left: 58px;
+  width: 342px;
+  height: 127px;
+}
+.adressParent,
+.eMailParent {
+  top: 727px;
+  width: 559px;
+}
+.adressParent {
+  top: 894px;
+  width: 301px;
+}
+.chat {
+  font-size: var(--font-size-164xl);
+  font-family: var(--font-futura-bold);
+}
+.readyToChatContainer {
+  position: absolute;
+  top: 78px;
+  left: 7px;
+  line-height: 98.81%;
+  display: flex;
+  align-items: center;
+  width: 610px;
+  height: 348px;
+  font-size: var(--font-size-119xl);
+  font-family: var(--font-futura-bk-bt);
+}
+.vectorIcon {
+  position: absolute;
+  height: 0.77%;
+  width: 37.29%;
+  top: 32.21%;
+  right: 62.71%;
+  bottom: 67.02%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dinarteVieiraAll {
+  position: absolute;
+  top: 1226.1px;
+  left: calc(50% - 270px);
+  font-size: var(--font-size-9xl);
+  font-weight: 500;
+  text-align: center;
+}
+.letsDoSomething {
+  position: absolute;
+  top: 432px;
+  left: 0;
+  font-size: var(--font-size-6xl);
+  font-weight: 800;
+  font-family: var(--font-futura-hv-bt);
+  color: var(--color-goldenrod);
+  display: flex;
+  align-items: center;
+  width: 362px;
+  height: 48px;
+}
+.formPage1,
+.frame {
+  background-color: var(--color-gray-100);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.frame {
+  width: 100%;
+  box-shadow: 0 1.6px 6.22px rgba(0, 0, 0, 0.16);
+  align-items: flex-start;
+  padding: 31.109500885009766px;
+  gap: 31.11px;
+  max-width: 1088.8321533203125px;
+}
+.formPage1 {
+  position: absolute;
+  top: -12px;
+  left: 812px;
+  width: 747px;
+  align-items: center;
+  padding: 62.21900177001953px 31.109500885009766px 31.109500885009766px;
+}
+.logo052Icon,
+.thSectionChild {
+  position: absolute;
+  top: 50px;
+  left: 812px;
+  width: 732px;
+  height: 1127px;
+}
+.logo052Icon {
+  top: 1100.3px;
+  left: 59.7px;
+  width: 62px;
+  height: 64px;
+  object-fit: cover;
+}
+.vieira {
+  font-family: var(--font-futura-bk-bt);
+}
+.dinartevieiraTxt {
+  line-break: anywhere;
+  width: 100%;
+}
+.dinartevieira {
+  position: absolute;
+  top: 1111.7px;
+  left: 135.7px;
+  font-size: var(--font-size-15xl);
+  color: var(--color-white);
+  text-align: right;
+  display: flex;
+  align-items: center;
+  width: 216px;
+  height: 42.4px;
+  font-family: var(--font-futura-bold);
+}
+.thSection {
+  position: absolute;
+  top: 6044.2px;
+  left: calc(50% - 780.1px);
+  width: 1559px;
+  height: 1285.8px;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--title-color);
+  font-family: var(--font-futura-md-bt);
+}

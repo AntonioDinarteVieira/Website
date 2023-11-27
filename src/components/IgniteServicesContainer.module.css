@@ -1,0 +1,257 @@
+.servicesToIgnite,
+.whatAreYou {
+  position: absolute;
+  top: 26px;
+  right: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1485px;
+  height: 136px;
+}
+.whatAreYou {
+  top: 151px;
+  right: 94px;
+  font-size: var(--font-size-6xl);
+  font-weight: 800;
+  font-family: var(--font-futura-hv-bt);
+  color: var(--color-goldenrod);
+  width: 328px;
+  height: 48px;
+}
+.layer1Icon {
+  position: absolute;
+  top: 113px;
+  left: 754px;
+  width: 1046px;
+  height: 6px;
+  overflow: hidden;
+}
+.social {
+  margin: 0;
+}
+.socialMedia {
+  position: absolute;
+  top: 211px;
+  left: 106px;
+  font-size: var(--font-size-57xl);
+  font-weight: 500;
+}
+.imGonnaHandle {
+  position: absolute;
+  top: 452px;
+  left: 0;
+  line-height: 123%;
+  font-family: var(--font-proxima-nova);
+  display: inline-block;
+  width: 430px;
+}
+.design {
+  position: absolute;
+  top: 256px;
+  left: 628px;
+  font-size: var(--font-size-57xl);
+  font-weight: 500;
+}
+.amplifyYourBrands,
+.igniteYourBrands {
+  position: absolute;
+  top: 452px;
+  font-family: var(--font-proxima-nova);
+  display: inline-block;
+}
+.igniteYourBrands {
+  left: 533px;
+  line-height: 123%;
+  width: 430px;
+}
+.amplifyYourBrands {
+  left: 3433.2px;
+  width: 355.7px;
+}
+.publicRelationsTxtContainer {
+  line-break: anywhere;
+  width: 100%;
+}
+.publicRelations,
+.seo {
+  position: absolute;
+  font-weight: 500;
+}
+.publicRelations {
+  top: 189px;
+  left: 3408px;
+  font-size: var(--font-size-75xl);
+  display: flex;
+  align-items: center;
+  width: 406px;
+}
+.seo {
+  top: 256px;
+  left: 2363px;
+  font-size: var(--font-size-57xl);
+}
+.iSpecializeIn {
+  position: absolute;
+  top: 452px;
+  left: 2222px;
+  line-height: 123%;
+  font-family: var(--font-proxima-nova);
+  display: inline-block;
+  width: 430px;
+}
+.googlemetaAds {
+  position: absolute;
+  top: 211px;
+  left: 1066px;
+  font-size: var(--font-size-57xl);
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 484px;
+}
+.craftTargetedAnd,
+.unlockThePower {
+  position: absolute;
+  top: 452px;
+  font-family: var(--font-proxima-nova);
+  display: inline-block;
+}
+.craftTargetedAnd {
+  left: 1093px;
+  line-height: 123%;
+  width: 430px;
+}
+.unlockThePower {
+  left: 1682px;
+  width: 408px;
+}
+.eMailMarketing {
+  position: absolute;
+  top: 189px;
+  left: 1653px;
+  font-size: var(--font-size-75xl);
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 466px;
+}
+.transformYourMessage {
+  position: absolute;
+  top: 452px;
+  left: 2839.1px;
+  font-family: var(--font-proxima-nova);
+  display: inline-block;
+  width: 381.9px;
+}
+.copywriting {
+  position: absolute;
+  top: 245px;
+  left: 2755px;
+  font-size: var(--font-size-75xl);
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 550px;
+}
+.onlineAdvertisingIcon,
+.seoIcon,
+.socialMediaIcon {
+  position: absolute;
+  top: 1px;
+  left: 1094px;
+  width: 151px;
+  height: 151px;
+  object-fit: cover;
+}
+.seoIcon,
+.socialMediaIcon {
+  top: 0;
+  left: 2361px;
+  width: 152.2px;
+}
+.socialMediaIcon {
+  top: 1px;
+  left: 0;
+  width: 151px;
+}
+.copywriterIcon,
+.emailMarketingIcon,
+.handshakeIcon,
+.webDesignIcon {
+  position: absolute;
+  top: 0;
+  left: 535px;
+  width: 150.8px;
+  height: 152px;
+  object-fit: cover;
+}
+.copywriterIcon,
+.emailMarketingIcon,
+.handshakeIcon {
+  left: 2954px;
+  width: 152px;
+}
+.emailMarketingIcon,
+.handshakeIcon {
+  left: 1673px;
+  width: 150.8px;
+}
+.handshakeIcon {
+  top: 1px;
+  left: 3535px;
+  width: 151px;
+  height: 151px;
+}
+.icons,
+.servios {
+  position: absolute;
+  top: 0;
+  left: 138px;
+  width: 3548px;
+  height: 152px;
+}
+.servios {
+  top: 100px;
+  left: 85px;
+  width: 3886px;
+  height: 668px;
+  overflow: hidden;
+}
+.serviosWrapper {
+  position: absolute;
+  top: 180px;
+  left: 0;
+  width: 1920px;
+  height: 803px;
+  overflow-x: auto;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-futura-md-bt);
+}
+.rdSection,
+.vectorIcon {
+  position: absolute;
+  overflow: hidden;
+}
+.vectorIcon {
+  height: 0.66%;
+  width: 30.57%;
+  top: 13.65%;
+  right: 6.29%;
+  bottom: 85.69%;
+  left: 63.14%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.rdSection {
+  top: 2152px;
+  left: 0;
+  width: 1920px;
+  height: 1065px;
+  text-align: center;
+  font-size: var(--font-size-57xl);
+  color: var(--title-color);
+  font-family: var(--font-futura-bold);
+}

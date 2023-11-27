@@ -1,0 +1,18 @@
+.submit {
+  position: relative;
+}
+.submitButton {
+  border-radius: 8px;
+  background-color: var(--accent-color);
+  height: 40px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 8px var(--padding-xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--input-size);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

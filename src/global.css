@@ -1,0 +1,94 @@
+@import url("https://fonts.googleapis.com/css2?family=Futura+Md+BT:ital,wght@0,500;1,500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Proxima+Nova:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Futura+Bk+BT:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Futura-Bold:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Futura+Hv+BT:wght@800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Spartan:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-proxima-nova: "Proxima Nova";
+  --font-futura-md-bt: "Futura Md BT";
+  --font-futura-bold: Futura-Bold;
+  --font-futura-bk-bt: "Futura Bk BT";
+  --font-futura-hv-bt: "Futura Hv BT";
+  --font-inter: Inter;
+  --input: Spartan;
+
+  /* font sizes */
+  --font-size-19xl: 38px;
+  --font-size-27xl: 46px;
+  --font-size-9xl: 28px;
+  --font-size-14xl: 33px;
+  --font-size-12xl: 31px;
+  --font-size-11xl: 30px;
+  --font-size-41xl: 60px;
+  --font-size-lgi: 19px;
+  --font-size-179xl: 198px;
+  --font-size-116xl: 135px;
+  --font-size-75xl: 94px;
+  --font-size-84xl: 103px;
+  --font-size-37xl: 56px;
+  --font-size-77xl: 96px;
+  --font-size-103xl: 122px;
+  --font-size-15xl: 34px;
+  --font-size-54xl: 73px;
+  --font-size-6xl: 25px;
+  --font-size-31xl: 50px;
+  --font-size-10xl: 29px;
+  --font-size-48xl: 67px;
+  --font-size-91xl: 110px;
+  --font-size-139xl: 158px;
+  --font-size-57xl: 76px;
+  --font-size-5xl: 24px;
+  --font-size-2xl-8: 21.8px;
+  --font-size-lg-7: 18.7px;
+  --font-size-164xl: 183px;
+  --font-size-119xl: 138px;
+  --font-size-21xl: 40px;
+  --font-size-45xl: 64px;
+  --input-size: 14px;
+  --error-size: 12px;
+
+  /* Colors */
+  --color-blueviolet: #9747ff;
+  --title-color: #e2e2e2;
+  --color-gainsboro-100: #e0e0e0;
+  --color-gainsboro-200: #d9d9d9;
+  --accent-color: #ffb337;
+  --color-gray-100: #191919;
+  --color-gray-200: rgba(25, 25, 25, 0.9);
+  --color-white: #fff;
+  --color-yellow: #ffff33;
+  --color-gold-100: #ffe634;
+  --color-gold-200: #ffcc36;
+  --color-goldenrod: #ffb937;
+  --input-color: #000;
+  --error-color: #fa1c1c;
+  --color-whitesmoke: #f0f0f0;
+
+  /* Gaps */
+  --gap-12xl-1: 31.1px;
+  --gap-base-6: 15.6px;
+  --gap-3xs: 10px;
+
+  /* Paddings */
+  --padding-11xl: 30px;
+  --padding-xl: 20px;
+  --padding-43xl-2: 62.2px;
+  --padding-12xl-1: 31.1px;
+  --padding-smi-4: 12.4px;
+  --padding-4xl-3: 23.3px;
+  --padding-mini: 15px;
+
+  /* Border radiuses */
+  --br-8xs: 5px;
+  --br-57xl: 76px;
+  --br-smi-4: 12.4px;
+  --br-6xs-2: 6.2px;
+  --br-9xs: 4px;
+}

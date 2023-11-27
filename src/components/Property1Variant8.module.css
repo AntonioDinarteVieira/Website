@@ -1,0 +1,33 @@
+.socialMedia {
+  margin-block-start: 0;
+  margin-block-end: 43px;
+}
+.socialMedia1 {
+  margin: 0;
+}
+.socialMediaDesignContainer1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.socialMediaDesignContainer {
+  position: absolute;
+  top: -765px;
+  left: 41px;
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+  width: 494px;
+  height: 865px;
+}
+.property1variant8 {
+  position: absolute;
+  top: 1254px;
+  left: 20px;
+  width: 576px;
+  height: 148px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-41xl);
+  color: var(--title-color);
+  font-family: var(--font-futura-md-bt);
+}

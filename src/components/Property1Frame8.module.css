@@ -1,0 +1,17 @@
+.property1frame8Child {
+  position: absolute;
+  top: calc(50% - 492.5px);
+  left: calc(50% - 522px);
+  width: 1044.6px;
+  height: 985px;
+  object-fit: cover;
+}
+.property1frame8 {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  border-radius: var(--br-57xl);
+  width: 1034px;
+  height: 975px;
+  overflow: hidden;
+}

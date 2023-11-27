@@ -1,0 +1,58 @@
+.typeAQuestion {
+  align-self: stretch;
+  position: relative;
+}
+.selectOption {
+  flex: 1;
+  position: relative;
+}
+.frame1,
+.frameIcon {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame1 {
+  align-self: stretch;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-whitesmoke);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  height: 40px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mini);
+  z-index: 0;
+}
+.frameIcon {
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 3px);
+  right: 14px;
+  width: 11px;
+  height: 7px;
+  z-index: 1;
+}
+.dropdown,
+.frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame {
+  align-self: stretch;
+  background-color: var(--color-white);
+  overflow: hidden;
+  position: relative;
+  color: var(--input-color);
+}
+.dropdown {
+  width: 390px;
+  gap: var(--gap-3xs);
+  text-align: left;
+  font-size: var(--input-size);
+  color: var(--title-color);
+  font-family: var(--input);
+}

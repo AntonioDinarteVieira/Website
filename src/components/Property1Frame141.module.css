@@ -1,0 +1,62 @@
+.property1frame14Child {
+  position: absolute;
+  top: calc(50% - 494.5px);
+  left: calc(50% - 524px);
+  width: 1048.8px;
+  height: 989px;
+  object-fit: cover;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 1034px;
+  background-color: var(--color-gray-200);
+  width: 1034px;
+  height: 975px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.theRiseOf {
+  position: absolute;
+  top: 46px;
+  left: 73.6px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 888.2px;
+  height: 91px;
+}
+.thisFirstTactic {
+  margin: 0;
+}
+.thisFirstTacticContainer {
+  position: absolute;
+  top: 187px;
+  left: 73.6px;
+  font-size: var(--font-size-11xl);
+  line-height: 123%;
+  font-family: var(--font-proxima-nova);
+  color: var(--title-color);
+  display: inline-block;
+  width: 886.7px;
+  height: 768px;
+}
+.property1frame14,
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1034px;
+  height: 975px;
+}
+.property1frame14 {
+  top: 1106px;
+  left: 20px;
+  border-radius: var(--br-57xl);
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-27xl);
+  color: var(--accent-color);
+  font-family: var(--font-futura-md-bt);
+}
